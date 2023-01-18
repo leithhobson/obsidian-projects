@@ -1,6 +1,6 @@
 import { ItemView, WorkspaceLeaf } from "obsidian";
 
-import App from "src/app/App.svelte";
+import App from "src/app/v2/App.svelte";
 import { customViews } from "src/lib/stores/custom-views";
 import { view } from "src/lib/stores/obsidian";
 import { BoardView } from "src/views/Board";
